@@ -1,3 +1,4 @@
 # Crpto-Forecasting
-Time series forecasting of crypto using traditional machine learning vs Neural Network models
+Time series forecasting of crypto using traditional machine learning vs Neural Network models.
+
 Cryptocurrencies are a popular asset for speculation and investment, with over USD40 billion worth traded daily. However, their fast-fluctuating prices have resulted in both millionaires and devastating losses. The objective of the project is to predict short term returns for Bitcoin and Ethereum, the largest crypto currencies, using a dataset of millions of rows of high-frequency market data dating back to 2018. The dataset is challenging due to the non-stationary volatility and correlation structure, and the danger of overfitting. Several traditional time series methods as ARIMA, Holt Winters, predictive machine learning algorithms as linear regression, Boosting algos and finally deep neural networks as RNNs, hierarchical time series LSTM are compared against each other for better insights into quantitative finance field.
